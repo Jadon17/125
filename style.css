@@ -1,0 +1,25 @@
+.heading {
+    font-size: 20px;
+    font-family: "Lobster Two";
+}
+
+.note {
+    color: black;
+    text-shadow: 1px 1px black;
+}
+
+.copy_right_footer {
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    background-color: cornflowerblue;
+    font-size: 25px;
+    font-family: 'Bebas Neue';
+}
+
+canvas {
+    border: 10px wheat groove;
+    box-shadow: 20px 20px 18px grey;
+    background-color: #fff;
+}
